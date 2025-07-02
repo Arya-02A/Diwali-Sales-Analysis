@@ -1,3 +1,9 @@
+"""
+Diwali Sales Data Analysis
+Author: Arya Madiwale
+Description: Exploratory data analysis on Diwali sales dataset to understand customer behavior and sales trends.
+"""
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
